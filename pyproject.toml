@@ -23,6 +23,8 @@ kagglehub = {extras = ["pandas-datasets"], version = "^0.3.7"}
 pillow = "^11.1.0"
 kaggle = "^1.6.17"
 idx2numpy = "^1.2.3"
+h5py = "^3.12.1"
+scikit-image = "^0.25.1"
 
 [build-system]
 requires = ["poetry-core"]
