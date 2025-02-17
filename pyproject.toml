@@ -19,6 +19,15 @@ ipykernel = "^6.26.0"
 scikit-learn = "^1.3.2"
 tensorflow = "^2.16.0"
 keras = "^3.8.0"
+kagglehub = {extras = ["pandas-datasets"], version = "^0.3.7"}
+pillow = "^11.1.0"
+kaggle = "^1.6.17"
+idx2numpy = "^1.2.3"
+h5py = "^3.12.1"
+scikit-image = "^0.25.1"
+scipy = "^1.15.1"
+albumentations = "^2.0.4"
+opencv-python-headless = "^4.11.0.86"
 
 [build-system]
 requires = ["poetry-core"]
